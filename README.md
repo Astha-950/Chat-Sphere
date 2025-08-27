@@ -41,19 +41,24 @@ Follow the steps below to set up the project on your local machine.
 
 
 ```bash
-  git clone https://github.com/Astha-950/Chat-Sphere.git
+git clone https://github.com/Astha-950/Chat-Sphere.git
 ```
 
 Backend Setup
 
 ```bash
-  cd backend
-  npm install
- MONGO_URI=your_mongodb_connection_string
+cd backend
+npm install
+ 
+
+```
+
+Create a .env file
+```bash
+ 
+MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=3000
-npm start
-
 ```
 
 Frontend Setup 
