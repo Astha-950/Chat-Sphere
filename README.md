@@ -1,7 +1,7 @@
-# Video Call Web Application
+# Chat Sphere
 
 ChatSphere is a real-time video chat application that allows users to **signup**, **login**, and see all other online users. Users can initiate **video calls** with other online users seamlessly. The application is built with **React** on the frontend, **Node.js** and **Express** on the backend, and uses **MongoDB** for data storage. Authentication is handled with **JWT**, ensuring secure access and user sessions.
----
+
 
 ## 🚀 Features
 
